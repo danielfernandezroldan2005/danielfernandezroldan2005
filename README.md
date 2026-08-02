@@ -13,12 +13,7 @@ Aquí puedes poner los iconos de las tecnologías que dominas. Copia y pega esta
 
 <p align="left">
   <img src="https://skillicons.dev" />
+  py
 </p>
 
 ---
-
-### 📊 GitHub Stats
-*¡Tus estadísticas automáticas de código se verán así de limpias!*
-
-![Daniel's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
