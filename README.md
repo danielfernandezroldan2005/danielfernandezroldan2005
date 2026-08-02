@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! I'm Daniel 👋 
 
-<!--
-**danielfernandezroldan2005/danielfernandezroldan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 💻 **4th Year Computer Engineering Student** at Universidad de Málaga (**UMA**).
+- 📍 Based in **Málaga, Spain**.
+- 🚀 Passionate about software development, clean code, and learning new technologies.
+- 📬 Connect with me on [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/daniel-fernández-roldán-696518382)) or follow my journey on [Instagram]([https://instagram.com](https://instagram.com/danielfr_2005)).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+Aquí puedes poner los iconos de las tecnologías que dominas. Copia y pega esta línea:
+
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+*¡Tus estadísticas automáticas de código se verán así de limpias!*
+
+![Daniel's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
