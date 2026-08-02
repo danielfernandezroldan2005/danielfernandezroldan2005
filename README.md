@@ -10,10 +10,6 @@
 
 # My Portfolio / Projects
 
-<p align="center">
-  <a href="https://github.com/yourusername/your-repo"><img src="https://skillicons.dev?i=py,java,cpp,javascript,js,arduino,react,spring,docker,kubernetes,plsql,mongo,r,scala" alt="Technologies"></a>
-</p>
-
 ## Description
 This is my personal portfolio where I showcase my projects and the technologies I am proficient in.
 
