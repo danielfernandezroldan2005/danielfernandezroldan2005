@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev?i=py,javascript)" />
+  <img src="https://skillicons.dev?i=py,javascript" />
 </p>
 
 
