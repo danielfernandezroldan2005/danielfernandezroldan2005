@@ -8,11 +8,27 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+# Mi Portafolio / Proyectos
 
-<p align="left">
-  <img src="https://skillicons.dev?i=py,javascript" />
+<p align="center">
+  <a href="https://github.com/yourusername/your-repo"><img src="https://skillicons.dev?i=py,javascript,java,cpp,docker,kubernetes" alt="Tecnologías"></a>
 </p>
+
+## Descripción
+Este es mi portafolio personal donde muestro mis proyectos y las tecnologías que domino.
+
+## Tecnologías
+- Python
+- JavaScript
+- Java
+- C++
+- Docker
+- Kubernetes
+
+## Contacto
+- Email: your.email@example.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+
 
 
 ---
