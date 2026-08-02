@@ -12,9 +12,8 @@
 Aquí puedes poner los iconos de las tecnologías que dominas. Copia y pega esta línea:
 
 <p align="left">
-  <img src="https://skillicons.dev" />
-    py
-  </img>
+  <img src="https://skillicons.dev" ?i= py />
 </p>
+
 
 ---
