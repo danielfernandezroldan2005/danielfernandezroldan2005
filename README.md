@@ -9,10 +9,9 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-Aquí puedes poner los iconos de las tecnologías que dominas. Copia y pega esta línea:
 
 <p align="left">
-  <img src="https://skillicons.dev" ?i= py />
+  <img src="https://skillicons.dev?i=py,javascript)" />
 </p>
 
 
