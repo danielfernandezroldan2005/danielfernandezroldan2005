@@ -1,34 +1,35 @@
-# Hi there! I'm Daniel 👋 
+# Hi there! I'm Daniel 👋
 
 ### 🎓 About Me
 - 💻 **4th Year Computer Engineering Student** at Universidad de Málaga (**UMA**).
 - 📍 Based in **Málaga, Spain**.
 - 🚀 Passionate about software development, clean code, and learning new technologies.
-- 📬 Connect with me on [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/daniel-fernández-roldán-696518382)) or follow my journey on [Instagram]([https://instagram.com](https://instagram.com/danielfr_2005)).
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-fernández-roldán-696518382) or follow my journey on [Instagram](https://instagram.com/danielfr_2005).
 
 ---
 
-# Mi Portafolio / Proyectos
+# My Portfolio / Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/your-repo"><img src="https://skillicons.dev?i=py,javascript,java,cpp,docker,kubernetes" alt="Tecnologías"></a>
+  <a href="https://github.com/yourusername/your-repo"><img src="https://skillicons.dev?i=py,java,cpp,javascript,js,arduino,react,spring,docker,kubernetes,plsql,mongo,r,scala" alt="Technologies"></a>
 </p>
 
-## Descripción
-Este es mi portafolio personal donde muestro mis proyectos y las tecnologías que domino.
+## Description
+This is my personal portfolio where I showcase my projects and the technologies I am proficient in.
 
-## Tecnologías
+## Technologies
 - Python
-- JavaScript
 - Java
 - C++
+- JavaScript
+- TypeScript/Node.js (denoted as "js")
+- Arduino
+- React
+- Spring
 - Docker
 - Kubernetes
-
-## Contacto
-- Email: your.email@example.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-
-
-
----
+- PL/SQL
+- MongoDB
+- R
+- Scala
+  
