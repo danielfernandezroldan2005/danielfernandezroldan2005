@@ -16,14 +16,14 @@ This is my personal portfolio where I showcase my projects and the technologies 
 ## Technologies
 - Python
 - Java
-- C++
-- JavaScript
+- C/C++
 - TypeScript/Node.js (denoted as "js")
+- HTML
+- CSS
 - Arduino
 - React
 - Spring
 - Docker
-- Kubernetes
 - PL/SQL
 - MongoDB
 - R
