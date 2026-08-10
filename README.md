@@ -22,10 +22,12 @@ This is my personal portfolio where I showcase my projects and the technologies 
 - CSS
 - Arduino
 - React
+- Angular
 - Spring
 - Docker
 - PL/SQL
 - MongoDB
 - R
 - Scala
+- GDScript
   
