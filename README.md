@@ -30,4 +30,4 @@ This is my personal portfolio where I showcase my projects and the technologies 
 - R
 - Scala
 - GDScript
-- 3D Printing (Ultimaker Cura and PrusaSlicer)
+- 3D Printing (UltiMaker Cura and PrusaSlicer)
