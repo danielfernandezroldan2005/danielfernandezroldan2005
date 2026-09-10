@@ -32,3 +32,4 @@ This is my personal portfolio where I showcase my projects and the technologies 
 - GDScript
 - 3D Printing (UltiMaker Cura and PrusaSlicer)
 - CUDA
+- Robotics (MatLab and a bit of ROS)
