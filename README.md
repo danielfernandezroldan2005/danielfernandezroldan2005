@@ -32,4 +32,4 @@ This is my personal portfolio where I showcase my projects and the technologies 
 - GDScript
 - 3D Printing (UltiMaker Cura and PrusaSlicer)
 - AI (CUDA, Pytorch, TensorFlow, Jupyter Notebook)
-- Robotics (MatLab and a bit of ROS)
+- Robotics (MatLab, SimuLink and a bit of ROS)
