@@ -17,7 +17,7 @@ This is my personal portfolio where I showcase my projects and the technologies 
 - Python
 - Java
 - C/C++
-- TypeScript/Node.js (denoted as "js")
+- TypeScript/Node.js
 - HTML
 - CSS
 - Arduino
@@ -31,5 +31,5 @@ This is my personal portfolio where I showcase my projects and the technologies 
 - Scala
 - GDScript
 - 3D Printing (UltiMaker Cura and PrusaSlicer)
-- AI (CUDA, Pytorch, TensorFlow, Jupyter Notebook)
+- AI (CUDA, Pytorch, Jupyter Notebook and Scikit-learn)
 - Robotics (MatLab, SimuLink and a bit of ROS)
