@@ -31,5 +31,5 @@ This is my personal portfolio where I showcase my projects and the technologies 
 - Scala
 - GDScript
 - 3D Printing (UltiMaker Cura and PrusaSlicer)
-- CUDA
+- AI (CUDA, Pytorch, TensorFlow, Jupyter Notebook)
 - Robotics (MatLab and a bit of ROS)
