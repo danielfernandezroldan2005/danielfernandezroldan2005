@@ -4,7 +4,7 @@
 - 💻 **4th Year Computer Engineering Student** at Universidad de Málaga (**UMA**).
 - 📍 Based in **Málaga, Spain**.
 - 🚀 Passionate about software development, clean code, and learning new technologies.
-- 📬 Connect with me on [LinkedIn](www.linkedin.com/in/danielfernandezroldan2005) or follow my journey on [Instagram](https://instagram.com/danielfr_2005).
+- 📬 Connect with me on [LinkedIn](https://linkedin.com/in/danielfernandezroldan2005) or follow my journey on [Instagram](https://instagram.com/danielfr_2005).
 
 ---
 
