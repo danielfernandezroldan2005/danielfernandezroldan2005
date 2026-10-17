@@ -20,8 +20,8 @@ This is my personal portfolio where I showcase my projects and the technologies 
 *   **Embedded Systems:** C/C++, Arduino, Raspberry Pi (using **SciTE**).
 
 ### 🌐 Web Development & Software Architecture
-*   **Frontend:** **React** *(Main technology for my recent web projects)*, HTML, CSS, Angular.
-*   **Backend:** Java, Spring Boot, TypeScript, Node.js.
+*   **Frontend:** **React** *(Main technology for my recent web projects)*, HTML, CSS, Angular, TypeScript.
+*   **Backend:** Java, Spring Boot, Node.js.
 *   **Databases:** PL/SQL, MongoDB.
 *   **DevOps & Containers:** Docker.
 
@@ -55,8 +55,8 @@ Este es mi portafolio personal donde muestro mis proyectos y las tecnologías qu
 *   **Sistemas Embebidos:** C/C++, Arduino, Raspberry Pi (usando **SciTE**).
 
 ### 🌐 Desarrollo Web y Arquitectura de Software
-*   **Frontend:** **React** *(Tecnología principal en mis proyectos web recientes)*, HTML, CSS, Angular.
-*   **Backend:** Java, Spring Boot, TypeScript, Node.js.
+*   **Frontend:** **React** *(Tecnología principal en mis proyectos web recientes)*, HTML, CSS, Angular, TypeScript.
+*   **Backend:** Java, Spring Boot, Node.js.
 *   **Bases de Datos:** PL/SQL, MongoDB.
 *   **DevOps y Contenedores:** Docker.
 
